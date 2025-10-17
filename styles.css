@@ -25,3 +25,7 @@ div *{
       background-position: 0% 50%;
     }
   }
+
+.bg-purple{
+    background-color: #8206FF;
+}
